@@ -153,8 +153,6 @@ For detailed integration steps, see the [Quickstart](https://docs.mem0.ai/quicks
 
 ## Citation
 
-We now have a paper you can cite:
-
 ```bibtex
 @article{mem0,
   title={Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory},
